@@ -1,0 +1,1 @@
+spring-boot reactive setup, kafka, reactive-mongodb 이 설정된 보일러플레이트
